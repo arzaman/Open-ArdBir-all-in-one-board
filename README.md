@@ -13,7 +13,7 @@ The final result will be like this
 
 PCB design
 
-![Alt text](https://github.com/arzaman/Open-ArdBir-all-in-one-board/blob/master/ArdBir_PCB.png
+![Alt text](https://github.com/arzaman/Open-ArdBir-all-in-one-board/blob/master/ArdBir_PCB.png)
 
 
 Schema
