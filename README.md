@@ -8,11 +8,17 @@ There are few open source HW board available supporting the SW either designed a
 
 The final result will be like this
 
+![Alt text](https://github.com/arzaman/Open-ArdBir-all-in-one-board/blob/master/3D%20all%20in%20one.png)
+
 
 PCB design
 
+![Alt text](https://github.com/arzaman/Open-ArdBir-all-in-one-board/blob/master/ArdBir_PCB.png
+
 
 Schema
+
+![Alt text](https://github.com/arzaman/Open-ArdBir-all-in-one-board/blob/master/ArdBir_SCH.png)
 
 
 Enjoy and feel free to use and fork the project
